@@ -263,7 +263,7 @@ li {
   margin-top: 0.2em;
 }
 img {
-  max-width: 50%;
+  max-width: 100%;
   margin: 0 auto;
   display: block;
   border-radius: 0.2rem;
@@ -411,7 +411,7 @@ article .different-posts {
   src: url("fonts/Inconsolata/Inconsolata-Regular.ttf");
 }
 .header {
-  background-image:url(image/4.jpg);
+  background-image: url("../img/header.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
